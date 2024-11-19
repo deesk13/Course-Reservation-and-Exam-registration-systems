@@ -27,7 +27,12 @@ A package diagram is represented as a folder shown as a large rectangle with a t
 
 ## class diagram:
 A class is drawn as rectangle box with three compartments or components separated by horizontal lines. The top compartment holds the class name and middle compartment holds the attribute and bottom compartment holds list of operations.
-![Screenshot 2024-11-19 195903](https://github.com/user-attachments/assets/71fd1e54-d2e2-419e-93ae-58ac92c1c0c8)
+![Screenshot 2024-11-19 195846](https://github.com/user-attachments/assets/be874faa-bded-41e7-8080-c4efdf36c2b8)
+
+## Communication diagram:
+A collaboration diagram is similar to sequence diagram but the message in number format. In a collaboration diagram sequence diagram is indicated by the numbering the message. A collaboration diagram, also called a communication diagram or interaction diagram, A sophisticated modeling tool can easily convert a collaboration diagram into a sequence diagram and the vice versa. A collaboration diagram resembles a flowchart that portrays the roles, functionality and behavior of individual objects as well as the overall operation of the system in real time.
+![Screenshot 2024-11-19 195903](https://github.com/user-attachments/assets/cca3295a-a232-400a-9df4-c7d55e75e217)
+
 
 ## Result:
 Thus, the Student information system project was executed and the output
